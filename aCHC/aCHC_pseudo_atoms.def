@@ -1,0 +1,25 @@
+#number of pseudo atoms
+22
+#type      print   as  scatt oxidation	mass       charge  polarization	B-factor radii  connectivity	anisotropic	anisotropic-type	tinker-type
+C_ff	yes	C	C	0	12.01000	0.155	0.0	1.0	1.00	0	0	absolute	0
+C1_ff	yes	C	C	0	12.01000	-0.193	0.0	1.0	1.00	0	0	absolute	0
+C2_ff	yes	C	C	0	12.01000	-0.054	0.0	1.0	1.00	0	0	absolute	0
+C3_ff	yes	C	C	0	12.01000	-0.149	0.0	1.0	1.00	0	0	absolute	0
+C4_ff	yes	C	C	0	12.01000	-0.054	0.0	1.0	1.00	0	0	absolute	0
+C5_ff	yes	C	C	0	12.01000	-0.193	0.0	1.0	1.00	0	0	absolute	0
+C6_ff	yes	C	C	0	12.01000	0.051	0.0	1.0	1.00	0	0	absolute	0
+C7_ff	yes	C	C	0	12.01000	-0.070	0.0	1.0	1.00	0	0	absolute	0
+C8_ff	yes	C	C	0	12.01000	0.201	0.0	1.0	1.00	0	0	absolute	0
+C9_ff	yes	C	C	0	12.01000	0.648	0.0	1.0	1.00	0	0	absolute	0
+O_ff	yes	O	O	0	16.00000	-0.489	0.0	1.0	1.00	0	0	absolute	0
+O1_ff	yes	O	O	0	16.00000	-0.528	0.0	1.0	1.00	0	0	absolute	0
+O2_ff	yes	O	O	0	16.00000	-0.616	0.0	1.0	1.00	0	0	absolute	0
+N_ff	yes	N	N	0	14.01000	-0.346	0.0	1.0	1.00	0	0	absolute	0
+H_ff	yes	H	H	0	1.00800		0.151	0.0	1.0	1.00	0	0	absolute	0
+H1_ff	yes	H	H	0	1.00800		0.145	0.0	1.0	1.00	0	0	absolute	0
+H2_ff	yes	H	H	0	1.00800		0.145	0.0	1.0	1.00	0	0	absolute	0
+H3_ff	yes	H	H	0	1.00800		0.152	0.0	1.0	1.00	0	0	absolute	0
+H4_ff	yes	H	H	0	1.00800		0.162	0.0	1.0	1.00	0	0	absolute	0
+H5_ff	yes	H	H	0	1.00800		0.428	0.0	1.0	1.00	0	0	absolute	0
+H6_ff	yes	H	H	0	1.00800		0.454	0.0	1.0	1.00	0	0	absolute	0
+Sp      no  S_b Sp  -   0.0000      0.00    0.0 1.0 1.00    0   0   relative    0
